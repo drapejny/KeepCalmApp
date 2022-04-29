@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369369609081",
+    "project_id": "keepcalmapp-23cfc",
+    "storage_bucket": "keepcalmapp-23cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369369609081:android:0ec2a7e7d53acc44d8f5a8",
+        "android_client_info": {
+          "package_name": "by.slizh.lab_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369369609081-ecv8ahlo4o5vpo19s09qspa688s9lt6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2uk5MZrl9sf-BDneozSybVhyrWIVHztk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369369609081-ecv8ahlo4o5vpo19s09qspa688s9lt6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
